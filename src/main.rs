@@ -17,7 +17,7 @@ use secp256k1::{rand, Secp256k1, SecretKey};
 
 use tokio::task;
 
-const DB_VER: &str = "MAR_15_2021";
+const DB_VER: &str = "OCT_15_2023";
 
 #[tokio::main]
 async fn main() {
